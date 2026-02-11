@@ -43,4 +43,12 @@ print(float(a)) #<class 'float'> 100.0
 
 
 
+# String  Concatenation 
+
+str1=  "Hashir "
+Str2 = " Ahmad"
+
+print(str1 + Str2) # Hashir Ahmad
+
+
  
